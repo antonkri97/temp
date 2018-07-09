@@ -1,0 +1,3 @@
+Fitnext project
+
+#Conventions
